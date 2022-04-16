@@ -1,0 +1,2 @@
+# MySoftware-Development-Practice
+本实训基于Android和TensorFlow Lite完成移动端机器学习相关应用的实现，包括使用已训练模型的机器学习应用和自主模型训练两部分。
