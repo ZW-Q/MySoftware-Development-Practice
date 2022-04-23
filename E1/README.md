@@ -1,8 +1,10 @@
-# 实验1 安装相关软件
+# 实验1——安装相关软件
+
+链接跳转：[主目录](https://github.com/ZW-Q/MySoftware-Development-Practice)	[实验1](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E1)	[实验2](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E2)	[实验3](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E3)	[实验4](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E4)	[实验5](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E5)
 
 ```
 实验内容
-1. 安装 Android Studio 4.1 之上的版本，更好的支持 TensorFlow lite。
+1. 安装Android Studio 4.1 之上的版本，更好的支持 TensorFlow lite。
 2. 安装Jupyter Notebook和相关的Python环境，后续用于机器学习模型构建。
 3. 探索两个软件的使用方法。
 4. 使用Jupyter Notebook将上述安装过程以Markdown语法描述，并上传至Github。
