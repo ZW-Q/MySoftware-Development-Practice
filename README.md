@@ -1,5 +1,7 @@
 # MySoftware-Development-Practice
 
+链接跳转：[主目录](https://github.com/ZW-Q/MySoftware-Development-Practice)	[实验1](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E1)	[实验2](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E2)	[实验3](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E3)	[实验4](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E4)	[实验5](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E5)
+
 ## 仓库简介：
 
 1. 本实训基于Android和TensorFlow Lite完成移动端机器学习相关应用的实现，包括使用已训练模型的机器学习应用和自主模型训练两部分。
@@ -21,16 +23,16 @@
 2. 源码：综合课程设计的源码要求发布于开源社区。
 3. 文档：要求写一份全面详尽的项目说明文档，详细介绍APP的具体功能、实现方法和关键代码
 
-### E1 位于E1目录
+### 实验1位于E1目录
 
 [E1目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E1)
 
-1. 安装 Android Studio 4.1 之上的版本，更好的支持TensorFlow lite。
-2. 安装Jupyter Notebook和相关的Python环境，后续用于机器学习模型构建。
-3. 探索两个软件的使用方法。
-4. 使用Jupyter Notebook将上述安装过程以Markdown语法描述，并上传至Github。
+1. 安装 Android Studio 4.1 之上的版本，更好的支持TensorFlow lite
+2. 安装Jupyter Notebook和相关的Python环境，后续用于机器学习模型构建
+3. 探索两个软件的使用方法
+4. 使用Jupyter Notebook将上述安装过程以Markdown语法描述，并上传至Github
 
-### E2位于E2目录
+### 实验2位于E2目录
 
 [E2目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E2)
 
@@ -38,3 +40,15 @@
 2. 掌握Android Studio开发组件的基本用法
 3. 初始Kotlin语言的基本要素
 4. 掌握Android Navigation的基本用法
+
+### 实验3位于E3目录
+
+[E3目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E3)
+
+### 实验4位于E4目录
+
+[E4目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E4)
+
+### 实验5位于E5目录
+
+[E5目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E5)
