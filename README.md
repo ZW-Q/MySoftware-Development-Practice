@@ -52,6 +52,10 @@
 
 [E3目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E3)
 
+1. 按照教程构建基于TensorFlow Lite的Android花卉识别应用。
+2. 查看该应用的代码框架，特别注意CameraX库(AndroidX.camera.*)和数据视图模型的使用。
+3. 上传完成既定功能的代码至Github，并撰写详细的Readme文档。
+
 ### 实验4位于E4目录
 
 [E4目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E4)
