@@ -60,6 +60,14 @@
 
 [E4目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E4)
 
+1. 安装Jupyter Notebook和相关的Python环境，建议采用Anaconda的安装方式。
+2. 按照教程完成实验过程，主要包括几个方面：
+	• 掌握Notebook工具的基本原理
+	• 学习Python基本语法，完成选择排序程序
+	• 完成Python数据分析的例子
+	• 将上述完成的Jupyter Notebook在Github上进行共享
+3. 上传完成既定功能的代码至Github，并撰写详细的Readme文档。
+
 ### 实验5位于E5目录
 
 [E5目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E5)
