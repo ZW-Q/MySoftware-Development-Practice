@@ -71,3 +71,9 @@
 ### 实验5位于E5目录
 
 [E5目录](https://github.com/ZW-Q/MySoftware-Development-Practice/tree/main/E5)
+
+1. 了解机器学习基础
+2. 了解TensorFlow及TensorFlow Lite
+3. 按照教程完成基于TensorFlow Lite Model Maker的花卉模型生成
+4. 使用实验三的应用验证生成的模型
+5. 将上述完成的Jupyter Notebook在Github上进行共享
